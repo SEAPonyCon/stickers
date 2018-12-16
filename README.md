@@ -1,6 +1,6 @@
 # Hey you
 
-If you'd like to create your own stickers for WhatsApp, don't fork this repository. The one you really should be looking at is over at https://github.com/SEAPonyCon/stickers. If you wanna know more, they have prepare their own FAQ at https://faq.whatsapp.com/general/26000226.
+If you'd like to create your own stickers for WhatsApp, don't fork this repository. The one you really should be looking at is over at https://github.com/SEAPonyCon/stickers. If you wanna know more, they have prepared their own FAQ at https://faq.whatsapp.com/general/26000226.
 
 ### Pull Requests/Sticker contributions
 - If you want to submit your own stickers of our mascots, please don't initiate a pull request. We're pretty clueless about the coding and stuff here at the time being. Our stickers are available in Telegram if you prefer that.
